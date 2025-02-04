@@ -104,11 +104,7 @@ Stores posts from followed users for quick access.
    ```sh
    cd social-media-nosql
    ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-   
+
 ```
 
 ---
