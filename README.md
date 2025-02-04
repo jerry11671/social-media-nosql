@@ -108,15 +108,7 @@ Stores posts from followed users for quick access.
    ```sh
    npm install
    ```
-
-### **Running the Project**
-To start the server, run:
-```sh
-npm start
-```
-For development with hot-reloading:
-```sh
-npm run dev
+   
 ```
 
 ---
