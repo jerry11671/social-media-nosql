@@ -1,0 +1,12 @@
+{
+  "_id": "user_id",
+  "feed": [
+    {
+      "post_id": "post_id_1",
+      "user_id": "user_id_2",
+      "content": "New post!",
+      "media": ["image2.jpg"],
+      "timestamp": "2025-02-03T13:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "post_id",
+  "user_id": "user_id",
+  "content": "Hello, world!",
+  "media": ["image1.jpg", "video1.mp4"],
+  "likes": ["user_id_2", "user_id_3"],
+  "comments": [
+    {
+      "user_id": "user_id_2",
+      "comment": "Nice post!",
+      "timestamp": "2025-02-03T12:05:00Z"
+    }
+  ],
+  "shares": ["user_id_5"],
+  "created_at": "2025-02-03T12:00:00Z"
+}
